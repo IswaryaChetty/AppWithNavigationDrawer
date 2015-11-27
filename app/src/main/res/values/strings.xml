@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">App With Navigation Drawer</string>
+    <string name="app_title">Home</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="navigation_drawer_items_array">
+        <item>Home</item>
+        <item>Create</item>
+        <item>Refresh</item>
+        <item>Share</item>
+    </string-array>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+</resources>
